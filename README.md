@@ -1,6 +1,6 @@
-CID_143_Athena_Commando_F_DarkNinja, 1500
-CID_141_Athena_Commando_M_DarkEagle, 1500
-Pickaxe_ID_059_DarkEagle, 800
+CID_A_060_Athena_Commando_M_Daytrader_8MRO2, 1200
+ CID_976_Athena_Commando_F_Wombat_0GRTQ, 1500
+ Pickaxe_ID_599_CavernFemale, 800
 na
 na
 na
@@ -8,5 +8,5 @@ CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
 CID_598_Athena_Commando_M_Mastermind, 1500
 BID_028_SpaceBlack, 1000
 Pickaxe_ID_300_Mastermind, 800
-EID_EgyptianDance, 400
+EID_Floss, 400
 Glider_ID_110_TeriyakiFish, 800
